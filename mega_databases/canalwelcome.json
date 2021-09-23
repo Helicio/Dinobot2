@@ -1,0 +1,15 @@
+{
+  "793647175166459914": {
+    "titulo": "Nuevo miembro",
+    "mensaje": "¡Bienvenido {usermencion}! Al Servidor **{servername}** Espero Que Lo Disfrutes 😎\n\n❗Pasa Por <#841415584868597820> Para No Tener Problemas Con Los Mods.\n\n😄 Ahora Somos `{servercount} `🎉",
+    "colorembed": "GREEN",
+    "imagen": "https://media.discordapp.net/attachments/800227716564516865/840652302107803688/videotogif_2021.05.08_11.11.45.gif",
+    "canal": "841416176193372160"
+  },
+  "847513154921693194": {
+    "titulo": "Nuevo miembro",
+    "mensaje": "¡Bienvenido {usermencion}! Al Servidor **{servername}** Espero Que Lo Disfrutes 😎\n\n❗Pasa Por #┃「📜」reglas Para No Tener Problemas Con Los Mods.\n\n😄 Ahora Somos `{servercount}`🎉",
+    "colorembed": "GREEN",
+    "canal": "847513154921693197"
+  }
+}
